@@ -173,7 +173,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OUTPUT
-
+![Screenshot (320)](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/6b168306-e229-4b4f-b136-15d2f5a1b8b2)
+![Screenshot (322)](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/b9986075-b5d6-40e3-a933-880986fba9b3)
 
 
 

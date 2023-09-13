@@ -152,7 +152,8 @@ public class CustomAdapter extends BaseAdapter {
 
 ## OUTPUT
 
-![Screenshot (335)](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/5efe4670-3735-4458-90b8-aa5c2594b523)
+![Screenshot (335)](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/5eb7730e-d7e2-4eb5-895b-8d58f4739047)
+
 
 
 ## RESULT

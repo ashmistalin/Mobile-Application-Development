@@ -174,6 +174,8 @@ getdata.setText(Integer.toString(data));
 ```
 
 ## OUTPUT
+![Ex4-1](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/f47b0d4a-d362-4c60-9529-ccb65e8e65ae)
+![ex4-2](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/f90bac81-362b-42ea-86a8-74fa14b3ae6b)
 
 
 

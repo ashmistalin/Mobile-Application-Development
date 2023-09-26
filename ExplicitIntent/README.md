@@ -11,7 +11,7 @@ To create a two screens , first screen will take one number input from user. Aft
 Latest Version Android Studio
 
 ## ALGORITHM:
-
+/*
  Step 1: Open Android Stdio and then click on File -> New -> New project.
  Step 2: Then type the Application name as implicit inetent and click Next.
  Step 3: Then select the Minimum SDK as shown below and click Next.
@@ -19,6 +19,7 @@ Latest Version Android Studio
  Step 5: Design layout in activity_main.xml.
  Step 6: Display message give in MainActivity file.
  Step 7: Save and run the application.
+ */
 
 
 

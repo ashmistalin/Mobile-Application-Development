@@ -22,7 +22,7 @@ Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 
 Step 5: Design layout in activity_main.xml.
 
-Step 6: Get contacts details and Display details give in MainActivity file.
+Step 6: Get image details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
 

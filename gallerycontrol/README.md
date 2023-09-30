@@ -147,6 +147,8 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
 ```
 
 ## OUTPUT
+![Screenshot (362)](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/48aaada0-b8cd-4413-8664-9fe106b07410)
+![Screenshot (364)](https://github.com/suryacse05/Mobile-Application-Development/assets/103128410/484bbb97-2855-44ff-9d99-3db8c777e6c4)
 
 
 
